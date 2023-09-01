@@ -1,0 +1,9 @@
+{
+    "type": "sqlite",
+    "database": "./data/cosecha_sql_ts.db",
+    "synchronize": true,
+    "logging": false,
+    "entities": [
+        "dist/entidades/**/*.js"
+    ]
+}
